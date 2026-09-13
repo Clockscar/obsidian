@@ -1,0 +1,123 @@
+.markdown-rendered li {
+	position: relative;
+}
+
+body.dli-enabled .markdown-rendered .list-collapse-indicator,
+body.dli-enabled .markdown-rendered .collapse-icon,
+body.dli-enabled .cm-line .cm-fold-indicator {
+	opacity: 0;
+	pointer-events: none;
+}
+
+body:not(.dli-enabled) .dli-handle,
+body:not(.dli-enabled) .markdown-rendered li > .dli-handle {
+	display: none;
+}
+
+.dli-cm-overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 0;
+	height: 0;
+	pointer-events: none;
+	z-index: 5;
+}
+
+.dli-handle {
+	box-sizing: border-box;
+	width: 1.1em;
+	line-height: 1;
+	text-align: center;
+	font-size: 0.85em;
+	color: var(--text-muted);
+	cursor: grab;
+	user-select: none;
+	-webkit-user-select: none;
+	touch-action: none;
+	opacity: 0;
+	transition: opacity 80ms ease;
+	z-index: 6;
+}
+
+.markdown-rendered li > .dli-handle {
+	position: absolute;
+	left: -2.2em;
+	top: 0.15em;
+	line-height: inherit;
+	height: 1lh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.markdown-rendered li.task-list-item > .dli-handle {
+	left: -3em;
+}
+
+.dli-handle-cm {
+	position: absolute;
+	pointer-events: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+body.dli-mobile .dli-handle {
+	visibility: visible;
+	opacity: 0.7;
+	width: 1.4em;
+	font-size: 1em;
+}
+
+body.dli-mobile .markdown-rendered li > .dli-handle {
+	left: -0.8em;
+}
+
+.dli-handle.dli-show,
+.dli-handle:hover,
+.markdown-rendered li:hover > .dli-handle {
+	opacity: 0.7;
+}
+
+.dli-handle:hover {
+	opacity: 1;
+	color: var(--text-normal);
+}
+
+.dli-handle:active {
+	cursor: grabbing;
+}
+
+.dli-dragging {
+	opacity: 0.35;
+}
+
+.dli-ghost {
+	position: fixed;
+	pointer-events: none;
+	z-index: 9999;
+	opacity: 0.9;
+	overflow: hidden;
+	user-select: none;
+}
+
+.dli-ghost > ul,
+.dli-ghost > ol {
+	margin: 0;
+}
+
+.dli-drop-line {
+	position: fixed;
+	height: 2px;
+	background: var(--interactive-accent);
+	pointer-events: none;
+	z-index: 9998;
+	border-radius: 2px;
+	box-shadow: 0 0 0 1px var(--background-primary);
+	display: none;
+}
+
+.dli-drop-line.dli-visible {
+	display: block;
+}

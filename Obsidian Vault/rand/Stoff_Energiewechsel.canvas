@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"f22a42072c566961","x":-168,"y":-276,"width":250,"height":60,"color":"4","type":"text","text":"**Stoff- und Energiewechsel**"},
+		{"id":"6e757d90d157fdd3","x":-31,"y":-113,"width":151,"height":50,"type":"text","text":"Assimilation"},
+		{"id":"4da341c2a131456b","x":-208,"y":39,"width":109,"height":50,"type":"text","text":"Atmung"},
+		{"id":"b5663887cc222395","x":-331,"y":39,"width":105,"height":50,"type":"text","text":"Gärung"},
+		{"id":"ed18540b3ccf4c5c","x":-193,"y":-113,"width":140,"height":50,"type":"text","text":"Dissimilation"},
+		{"id":"99021cf44fad37e3","x":-70,"y":39,"width":142,"height":50,"type":"text","text":"heterotrophe"},
+		{"id":"50c3ae469b4ea040","x":92,"y":39,"width":127,"height":50,"type":"text","text":"autotrophe"},
+		{"id":"082273c3e2a10208","x":-430,"y":192,"width":199,"height":50,"type":"text","text":"Innere (Zellatmung)"},
+		{"id":"986ec0b21720aff7","x":-217,"y":192,"width":218,"height":50,"type":"text","text":"Aüßere (Gasaustausch)"},
+		{"id":"3169121d1ee7acfd","x":31,"y":192,"width":169,"height":50,"type":"text","text":"Photosynthese"},
+		{"id":"a1b5da86c1a6db6c","x":219,"y":192,"width":178,"height":50,"type":"text","text":"Chemosynthese "},
+		{"id":"e68fecbd1d609364","x":-193,"y":260,"width":126,"height":50,"color":"2","type":"text","text":"Ernährung"}
+	],
+	"edges":[
+		{"id":"fe1b6bc3e3049db3","fromNode":"f22a42072c566961","fromSide":"bottom","toNode":"6e757d90d157fdd3","toSide":"top"},
+		{"id":"6248648634bb41c1","fromNode":"f22a42072c566961","fromSide":"bottom","toNode":"ed18540b3ccf4c5c","toSide":"top","toEnd":"none"},
+		{"id":"a36f442ec79fa660","fromNode":"6e757d90d157fdd3","fromSide":"bottom","toNode":"50c3ae469b4ea040","toSide":"top"},
+		{"id":"d1360dc97154a659","fromNode":"6e757d90d157fdd3","fromSide":"bottom","toNode":"99021cf44fad37e3","toSide":"top"},
+		{"id":"0ee7038ba5bfd559","fromNode":"50c3ae469b4ea040","fromSide":"bottom","toNode":"3169121d1ee7acfd","toSide":"top"},
+		{"id":"76779d3fabbd9e5b","fromNode":"50c3ae469b4ea040","fromSide":"bottom","toNode":"a1b5da86c1a6db6c","toSide":"top"},
+		{"id":"7036f5b4a25dca3c","fromNode":"ed18540b3ccf4c5c","fromSide":"bottom","toNode":"b5663887cc222395","toSide":"top"},
+		{"id":"1893cfc93681b923","fromNode":"ed18540b3ccf4c5c","fromSide":"bottom","toNode":"4da341c2a131456b","toSide":"top"},
+		{"id":"a3c3c0d9d985a2dc","fromNode":"4da341c2a131456b","fromSide":"bottom","toNode":"986ec0b21720aff7","toSide":"top"},
+		{"id":"ab08062621dd2a22","fromNode":"4da341c2a131456b","fromSide":"bottom","toNode":"082273c3e2a10208","toSide":"top"},
+		{"id":"0404e94ea895c7ae","fromNode":"e68fecbd1d609364","fromSide":"left","toNode":"082273c3e2a10208","toSide":"bottom","toEnd":"none","color":"2"}
+	]
+}

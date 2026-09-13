@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"5512c5784ef2ca4c","x":-140,"y":-240,"width":250,"height":60,"type":"text","text":"Staatshaushalt"},
+		{"id":"6cd2cebf687d59dc","x":-233,"y":160,"width":187,"height":60,"type":"text","text":"ordentlich"},
+		{"id":"f4af29491298444c","x":-252,"y":220,"width":224,"height":148,"type":"text","text":"- Steuern\n- Abgaben (staatliche Dienstleistungen)"},
+		{"id":"bef10d1bffe5ee7b","x":-480,"y":216,"width":150,"height":74,"type":"text","text":"- Kredite"},
+		{"id":"3ce0191cbcd4f9f1","x":-495,"y":160,"width":180,"height":60,"type":"text","text":"außerordentlich"},
+		{"id":"95914120beaffa1b","type":"text","text":"ordentlich","x":314,"y":160,"width":187,"height":60},
+		{"id":"b5b3bdecdaa426c1","x":299,"y":220,"width":218,"height":82,"type":"text","text":"- Personal\n- Sozialleistungen"},
+		{"id":"4be551dce782debd","x":7,"y":220,"width":250,"height":89,"type":"text","text":"- Verteidigungsfall\n- Katastrophen"},
+		{"id":"c1c1a2db379eca33","type":"text","text":"außerordentlich","x":42,"y":160,"width":180,"height":60},
+		{"id":"2d08ca1e31b90ddf","x":-278,"y":-33,"width":250,"height":60,"color":"1","type":"text","text":"Einnahmen"},
+		{"id":"1ccc5f0eea5ee05b","x":7,"y":-33,"width":250,"height":60,"color":"1","type":"text","text":"Ausgaben"},
+		{"id":"7b184347ab69c545","x":-208,"y":60,"width":386,"height":53,"color":"3","type":"text","text":"ordentlich = regelmäßig im Haushalt"}
+	],
+	"edges":[
+		{"id":"999f46564d2deca5","fromNode":"5512c5784ef2ca4c","fromSide":"bottom","toNode":"2d08ca1e31b90ddf","toSide":"top"},
+		{"id":"7f213d65e4195f54","fromNode":"5512c5784ef2ca4c","fromSide":"bottom","toNode":"1ccc5f0eea5ee05b","toSide":"top"},
+		{"id":"36d476ae26bfc2a1","fromNode":"2d08ca1e31b90ddf","fromSide":"bottom","toNode":"3ce0191cbcd4f9f1","toSide":"top"},
+		{"id":"349e2a5b8f93b97e","fromNode":"2d08ca1e31b90ddf","fromSide":"bottom","toNode":"6cd2cebf687d59dc","toSide":"top"},
+		{"id":"cb0e7724690299b6","fromNode":"1ccc5f0eea5ee05b","fromSide":"bottom","toNode":"95914120beaffa1b","toSide":"top"},
+		{"id":"603550fe745a81e4","fromNode":"1ccc5f0eea5ee05b","fromSide":"bottom","toNode":"c1c1a2db379eca33","toSide":"top"}
+	]
+}

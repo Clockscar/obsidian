@@ -1,0 +1,219 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Klasse 10/Deutsch\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 57855
+      }
+    },
+    {
+      "query": "path:\"Klasse 10/Info\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    },
+    {
+      "query": " path:\"Klasse 10/Sozi\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16745472
+      }
+    },
+    {
+      "query": "path:\"Klasse 10/Chemie\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16766208
+      }
+    },
+    {
+      "query": "path:Excalidraw  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:\"Klasse 10/Semi\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711927
+      }
+    },
+    {
+      "query": "path:\"Klasse 10/Physik\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 31743
+      }
+    },
+    {
+      "query": "path:\"Klasse 10/Biologie\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 29952
+      }
+    },
+    {
+      "query": "path:\"Klasse 10/Geschichte\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5914624
+      }
+    },
+    {
+      "query": "path: rand  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:\"Klasse 10/Religion\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8608971
+      }
+    },
+    {
+      "query": "path:\"Klasse 10/Astro\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
+    },
+    {
+      "query": "path:\"Klasse 10/Geo\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6553600
+      }
+    },
+    {
+      "query": "path:\"Klasse 10/English\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12909056
+      }
+    },
+    {
+      "query": "path:\"Klasse 10/WR\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65450
+      }
+    },
+    {
+      "query": "path:\"Klasse 10/Latein\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5263610
+      }
+    },
+    {
+      "query": "path:\"Klasse 10/Mathe\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"Klasse 11/Deutsch\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 57855
+      }
+    },
+    {
+      "query": "path:\"Klasse 11/Info\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    },
+    {
+      "query": "path:\"Klasse 11/Chemie\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16766208
+      }
+    },
+    {
+      "query": "path:\"Klasse 11/Semi\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711927
+      }
+    },
+    {
+      "query": "path:\"Klasse 11/Physik\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 31743
+      }
+    },
+    {
+      "query": "path:\"Klasse 11/Geschichte\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5914624
+      }
+    },
+    {
+      "query": "path:\"Klasse 11/Religion\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8608971
+      }
+    },
+    {
+      "query": "path:\"Klasse 11/English\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12909056
+      }
+    },
+    {
+      "query": "path:\"Klasse 11/Mathe\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"Klasse 11/Kunst\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16745472
+      }
+    },
+    {
+      "query": "path:Clippings  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 1.171875,
+  "lineSizeMultiplier": 0.954947916666667,
+  "collapse-forces": false,
+  "centerStrength": 0.625,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.020673264835237893,
+  "close": true
+}

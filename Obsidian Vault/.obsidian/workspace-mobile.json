@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "bdeb6fc1f434b60f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba3c45368e301953",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6addd484a0f730a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Klasse 10/Info/Programmierung in Python 🐍.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Programmierung in Python 🐍"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5f4085a88c18b18",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7d7931bed0e810fc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Dateiexplorer"
+        }
+      },
+      {
+        "id": "68047896b880c8e5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "a2638987391b8334",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "b14d62cbebcb889b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "39e83522f5dd1aa5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f344d0ed269f4db8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Klasse 10/Biologie/Evolution.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "d3af09e420768f2b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Klasse 10/Deutsch/Friedrich Schiller - Kabale und Liebe.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "a9bef8cbc675ba17",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Klasse 10/Deutsch/Friedrich Schiller - Kabale und Liebe.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "9955b12b82c38c21",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "204781b9405041f6",
+        "type": "leaf",
+        "state": {
+          "type": "chronology-calendar-view",
+          "state": {},
+          "icon": "clock",
+          "title": "Chronology"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "open-gate:chattie": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false,
+      "iconic:Regelbuch öffnen": false,
+      "obsidian-importer:Open Importer": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "chronology:Open Chronology": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "6addd484a0f730a7",
+  "lastOpenFiles": [
+    "Klasse 10/Chemie/Naturstoffe.md",
+    "Excalidraw/Drawing 2026-03-05 10.31.49.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-27 12.20.30.excalidraw.md",
+    "Klasse 10/Religion/Bonhoeffer Biografie.md",
+    "Klasse 10/Physik/Kepler.md",
+    "Excalidraw/Drawing 2026-01-26 08.54.04.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-26 08.30.15.excalidraw.md",
+    "Klasse 10/Geschichte/Der Zweite Weltkrieg.md",
+    "Klasse 10/Biologie/Evolution.md",
+    "Excalidraw/Drawing 2025-10-30 08.21.57.excalidraw.md",
+    "Klasse 10/Physik/Newtonsche Gesetze.md",
+    "Klasse 10/Physik/2025-11-13.md",
+    "Klasse 10/Info/Programmierung in Python 🐍.md",
+    "Klasse 10/Deutsch/Aspektorientierte Dialoganalyse.md",
+    "Klasse 10/Biologie/Anwendung Gentechnik.md",
+    "Klasse 10/Sozi/Soziale Ungleichheit.md",
+    "Klasse 10/Biologie/Mutation & Modifikation.md",
+    "Klasse 10/Info/python/Programmierung in Python 🐍.md",
+    "Klasse 10/Info/Info.md",
+    "Klasse 10/Info/python/Programmierung in Python.md",
+    "Klasse 10/Chemie/Kunststoffe.md",
+    "Excalidraw/Drawing 2025-12-04 10.45.03.excalidraw.md",
+    "Klasse 10/Chemie/Ammoniumverbindungen.md",
+    "Excalidraw/Drawing 2025-11-28 12.38.01.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-27 11.02.13.excalidraw.md",
+    "Klasse 10.sync-conflict-20251207-152618-WJVBZ7E.md",
+    "Handout_ Jugend_und_Frauen_in_der_NS-Zeit_LydiaLaesker_SophiaBornfelst.pdf",
+    "20251117_100125.jpg",
+    "image.jpg",
+    "20251124_084505 2.jpg",
+    "Screenshot 2025-11-26 095410.png",
+    "Klasse 10/Religion",
+    "Pasted image 20251117090101.png",
+    "Stoff_Energiewechsel.canvas"
+  ]
+}

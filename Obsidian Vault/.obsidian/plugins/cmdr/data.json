@@ -1,0 +1,68 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-charts:creation-helper",
+      "icon": "lucide-chart-line",
+      "name": "Charts: Insert new Chart",
+      "mode": "any"
+    },
+    {
+      "id": "latex-to-unicode:latex-to-unicode",
+      "icon": "lucide-code-xml",
+      "name": "LaTeX to Unicode converter: LaTeX to Unicode",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [
+    {
+      "id": "theme:toggle-light-dark",
+      "icon": "lucide-moon-star",
+      "name": "Toggle light/dark mode",
+      "mode": "251f638306ff542d"
+    },
+    {
+      "id": "unicode-search:search-unicode-chars",
+      "icon": "lucide-a-large-small",
+      "name": "Unicode Search: Search Unicode characters",
+      "mode": "any"
+    }
+  ],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "textToolbarCommands": [],
+  "hide": {
+    "statusbar": [
+      "obsidian-spaced-repetition",
+      "editor-status",
+      "pdf-toggle-dark-mode",
+      "editing-toolbar"
+    ],
+    "leftRibbon": [
+      "Open list panel",
+      "Advanced Tables Toolbar",
+      "Review flashcards"
+    ],
+    "editorMenuItems": [],
+    "fileMenuItems": []
+  },
+  "spacing": 0,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  },
+  "spacingReset": true
+}

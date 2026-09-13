@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "13f40609f8ceb0d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ba661b320f0a316",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e45bf40073682c8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "hearth-home-view",
+              "state": {},
+              "pinned": true,
+              "icon": "hearth-crystal",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "6f34454baf136057",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "781a5646d611708f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Klasse 11/Geschichte/Vortrag.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vortrag"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "386afe7d988f448d",
+    "type": "split",
+    "children": [
+      {
+        "id": "338742ce3e3a3bed",
+        "type": "tabs",
+        "dimension": 78.84882108183079,
+        "children": [
+          {
+            "id": "1a729ee62296d32f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cb81823109683f39",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "810e8abce4839d33",
+        "type": "tabs",
+        "dimension": 21.151178918169208,
+        "children": [
+          {
+            "id": "1d0523aebb4a20d2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "45da3556f286d772",
+    "type": "split",
+    "children": [
+      {
+        "id": "3223b6879b2c0c3c",
+        "type": "tabs",
+        "dimension": 71.80349932705249,
+        "children": [
+          {
+            "id": "debfce1a09ca7f61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Klasse 11/Religion/Anthropologie.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1082e0027a26fffc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f4dee202472bd0e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f6818909f59d36cb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "31c09e483b77f287",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Klasse 11/Geschichte/Vortrag.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "836effbc95e9749d",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Klasse 11/Info/Boolesche Algebra.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "896d79ad3de22101",
+        "type": "tabs",
+        "dimension": 28.196500672947515,
+        "children": [
+          {
+            "id": "768af082eef3aebd",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Chronology"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "canvas:Create new canvas": false,
+      "pdf-toggle-dark-mode:PDF appearance: Dark (click for Light) · adapting to theme": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "iconic:Open rulebook": false,
+      "templater-obsidian:Templater": false,
+      "chronology:Open Chronology": false,
+      "hearth:Open Hearth home": false,
+      "cmdr:Charts: Insert new Chart": false,
+      "cmdr:LaTeX to Unicode converter: LaTeX to Unicode": false
+    }
+  },
+  "active": "781a5646d611708f",
+  "lastOpenFiles": [
+    "Klasse 11/Deutsch/Kurzgeschichte.md",
+    "Klasse 11/Deutsch/Wiederholung.md",
+    "rand/Anforderungen Kurs Interpretation Epik Schülerkopie.pdf",
+    "Klasse 10/Deutsch/Sprachliche Mittel.md",
+    "Excalidraw/Drawing 2026-09-11 08.44.34.excalidraw.md",
+    "Klasse 11/Chemie/Ionensubstanzen.md",
+    "Excalidraw/Drawing 2026-09-11 08.36.11.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-10 07.55.32.excalidraw.md",
+    "Klasse 11/Geschichte/Vortrag.md",
+    "Klasse 11/Info/Boolesche Algebra.md",
+    "Klasse 11/Info/Zahlen.md",
+    "Klasse 11/Chemie/Orbitalmodell.md",
+    "Klasse 11/Chemie/Grundlagen.md",
+    "Klasse 11/Kunst/Design.md",
+    "Klasse 11/Geschichte/Kant & Aufklärung.md",
+    "rand/Pasted image 20260909104925.png",
+    "Klasse 11/English/Finding your place - the individual in society.md",
+    "rand/Persuasion Techniques S.pdf",
+    "rand/KV SB 1 Analyzing Non-Fiction Feedback.pdf",
+    "Klasse 11/Physik/Kondensatoren.md",
+    "Klasse 11/Physik/Elektrisches Feld.md",
+    "Klasse 11/Religion/Anthropologie.md",
+    "Klasse 11/Religion/Religion.md",
+    "Clippings/Mensch Tier Vergleich.md",
+    "Clippings",
+    "Excalidraw/Drawing 2026-08-24 12.26.01.excalidraw.md",
+    "Klasse 11/Religion/Themen.md",
+    "Excalidraw/Drawing 2026-09-04 19.25.45.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-03 12.18.08.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-06 11.36.21.excalidraw.md",
+    "rand/Pasted Image 20260906113624_568.png",
+    "rand/Pasted image 20260906113609.png",
+    "rand/Satzglieder Deu 11.pdf"
+  ]
+}

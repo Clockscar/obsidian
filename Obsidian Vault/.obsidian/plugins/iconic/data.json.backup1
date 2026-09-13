@@ -1,0 +1,280 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": true,
+  "showMenuActions": true,
+  "showSuggestionIcons": true,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "useSearchKeywords": "on",
+  "maxSearchResults": 50,
+  "colorPicker1": "rgb",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "maxBackups": 5,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": true,
+    "rulePage": "folder"
+  },
+  "appIcons": {},
+  "tabIcons": {
+    "graph": {
+      "color": "#ff0000"
+    }
+  },
+  "fileIcons": {
+    "Klasse 10/Astronomie": {
+      "icon": "lucide-moon",
+      "unsynced": [
+        "251f638306ff542d",
+        "/storage/7E3E-3773/Documents/Obsidian/Obsidian Vault"
+      ],
+      "color": "#0000ff"
+    },
+    "Klasse 10/Biologie": {
+      "icon": "🪴",
+      "color": "#007500",
+      "unsynced": [
+        "251f638306ff542d",
+        "/storage/7E3E-3773/Documents/Obsidian/Obsidian Vault"
+      ]
+    },
+    "Klasse 10/Chemie": {
+      "unsynced": [
+        "f59b3487295a1538",
+        "251f638306ff542d",
+        "/storage/7E3E-3773/Documents/Obsidian/Obsidian Vault"
+      ],
+      "icon": "🧑‍🔬",
+      "color": "#ffd500"
+    },
+    "Klasse 10/Deutsch": {
+      "color": "#00e1ff",
+      "unsynced": [
+        "f59b3487295a1538",
+        "251f638306ff542d",
+        "/storage/7E3E-3773/Documents/Obsidian/Obsidian Vault"
+      ],
+      "icon": "📚"
+    },
+    "Klasse 10/English": {
+      "icon": "🇬🇧",
+      "unsynced": [
+        "251f638306ff542d",
+        "/storage/7E3E-3773/Documents/Obsidian/Obsidian Vault"
+      ],
+      "color": "#c4fa00"
+    },
+    "Klasse 10/Geographie": {
+      "icon": "🌍",
+      "unsynced": [
+        "251f638306ff542d",
+        "/storage/7E3E-3773/Documents/Obsidian/Obsidian Vault"
+      ]
+    },
+    "Klasse 10/Geschichte": {
+      "icon": "lucide-history",
+      "color": "#5a4000",
+      "unsynced": [
+        "251f638306ff542d",
+        "/storage/7E3E-3773/Documents/Obsidian/Obsidian Vault"
+      ]
+    },
+    "Klasse 10/Info": {
+      "icon": "🖥️",
+      "color": "#00ff00",
+      "unsynced": [
+        "251f638306ff542d",
+        "/storage/7E3E-3773/Documents/Obsidian/Obsidian Vault"
+      ]
+    },
+    "Klasse 10/Latein": {
+      "icon": "🍃",
+      "unsynced": [
+        "251f638306ff542d",
+        "/storage/7E3E-3773/Documents/Obsidian/Obsidian Vault"
+      ],
+      "color": "#5050fa"
+    },
+    "Klasse 10/Mathe": {
+      "icon": "lucide-radical",
+      "color": "#ff0000"
+    },
+    "Klasse 10/Physik": {
+      "icon": "🔌",
+      "color": "#007bff",
+      "unsynced": [
+        "251f638306ff542d",
+        "/storage/7E3E-3773/Documents/Obsidian/Obsidian Vault"
+      ]
+    },
+    "Klasse 10/Religion": {
+      "icon": "✝️",
+      "unsynced": [
+        "251f638306ff542d",
+        "/storage/7E3E-3773/Documents/Obsidian/Obsidian Vault"
+      ]
+    },
+    "Klasse 10/Semi": {
+      "icon": "lucide-file-text",
+      "unsynced": [
+        "251f638306ff542d",
+        "/storage/7E3E-3773/Documents/Obsidian/Obsidian Vault"
+      ],
+      "color": "#ff00f7"
+    },
+    "Klasse 10/Sozi": {
+      "icon": "🗣️",
+      "color": "#ffa200",
+      "unsynced": [
+        "251f638306ff542d",
+        "/storage/7E3E-3773/Documents/Obsidian/Obsidian Vault"
+      ]
+    },
+    "Klasse 10/WR": {
+      "icon": "📖",
+      "unsynced": [
+        "251f638306ff542d",
+        "/storage/7E3E-3773/Documents/Obsidian/Obsidian Vault"
+      ],
+      "color": "#00ffaa"
+    },
+    "Klasse 11/Chemie": {
+      "icon": "🧑‍🔬",
+      "color": "#ffd500"
+    },
+    "Klasse 11/Deutsch": {
+      "icon": "📚",
+      "color": "#00ffff"
+    },
+    "Klasse 11/English": {
+      "icon": "🇬🇧",
+      "color": "#c4fa00"
+    },
+    "Klasse 11/Geschichte": {
+      "icon": "lucide-history",
+      "color": "#5a4000"
+    },
+    "Klasse 11/Info": {
+      "icon": "🖥️",
+      "color": "#00ff00"
+    },
+    "Klasse 11/Kunst": {
+      "icon": "lucide-paintbrush",
+      "color": "#ff8400"
+    },
+    "Klasse 11/Mathe": {
+      "icon": "math-function",
+      "color": "#ff0000"
+    },
+    "Klasse 11/Physik": {
+      "icon": "🔌",
+      "color": "#007bff"
+    },
+    "Klasse 11/Religion": {
+      "icon": "✝️"
+    },
+    "Klasse 11/Semi": {
+      "color": "#ff00f5",
+      "icon": "lucide-file-text"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {
+    "Chemie": {
+      "icon": "🧑‍🔬",
+      "color": "#ffd500"
+    },
+    "Deutsch": {
+      "icon": "📚",
+      "color": "#027aff"
+    },
+    "Informatik": {
+      "icon": "🖥️",
+      "color": "#1e850a"
+    },
+    "Sozialkunde": {
+      "icon": "🗣️",
+      "color": "#ff8400"
+    },
+    "Seminarfach": {
+      "icon": "lucide-file-text",
+      "color": "#ff00f7"
+    },
+    "Biologie": {
+      "icon": "🪴",
+      "color": "#007400"
+    },
+    "Geschichte": {
+      "icon": "lucide-history",
+      "color": "#5a4000"
+    },
+    "Physik": {
+      "icon": "🔌",
+      "color": "#0000ff"
+    },
+    "Religion": {
+      "icon": "✝️",
+      "color": "#604597"
+    },
+    "Astro": {
+      "icon": "🌜",
+      "color": "#009dff"
+    },
+    "Geographie": {
+      "icon": "🌍"
+    },
+    "WR": {
+      "icon": "📖",
+      "color": "#00ffaa"
+    },
+    "Astronomie": {
+      "icon": "🌙",
+      "color": "#009dff"
+    },
+    "Semi": {
+      "icon": "lucide-file-text",
+      "color": "#ff00f7"
+    },
+    "Sozi": {
+      "icon": "🗣️",
+      "color": "#ffa200"
+    },
+    "English": {
+      "icon": "🇬🇧",
+      "color": "#c4fa00"
+    },
+    "Info": {
+      "icon": "🖥️",
+      "color": "#00ff00"
+    },
+    "Latein": {
+      "icon": "🍃",
+      "color": "#5050fa"
+    },
+    "Mathe": {
+      "icon": "lucide-radical",
+      "color": "#ff0000"
+    }
+  },
+  "propertyIcons": {},
+  "ribbonIcons": {
+    "obsidian-excalidraw-plugin:New drawing": {
+      "icon": "lucide-pencil-ruler"
+    }
+  },
+  "fileRules": [],
+  "folderRules": [],
+  "biggerSearchResults": "mobile",
+  "rememberDeletedItems": false
+}

@@ -1,0 +1,183 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "V4ksY7UTmzDPowq7L7RmP",
+      "name": "Deutsch",
+      "value": "#00ffff"
+    },
+    {
+      "id": "9TA8c54i4S61b073zZ_mT",
+      "name": "Info",
+      "value": "#00ff00"
+    },
+    {
+      "id": "WF2JzQt1KCb_zSugcOiNn",
+      "name": "Sozi",
+      "value": "#ff8400"
+    },
+    {
+      "id": "P4h5poYLud0lLPkWMQNU8",
+      "name": "Chemie",
+      "value": "#ffd500"
+    },
+    {
+      "id": "8N5oNyOwuMbrX9CMMCKFj",
+      "name": "Semi",
+      "value": "#ff00d9"
+    },
+    {
+      "id": "efVSBPtUncVr6s61mTDWU",
+      "name": "Physik",
+      "value": "#0000ff"
+    },
+    {
+      "id": "vYC8F4oeP9u10f9TSClyB",
+      "name": "Bio",
+      "value": "#007500"
+    },
+    {
+      "id": "v6gGA7jiRuMdIJYBQDdE3",
+      "name": "Geschichte",
+      "value": "#5a4000"
+    },
+    {
+      "id": "f47vWeuUR4brNzed5oWGZ",
+      "name": "Reli",
+      "value": "#835ccb"
+    },
+    {
+      "id": "OFS6drXE-3PMv9Ns_-157",
+      "name": "Astro",
+      "value": "#009dff"
+    },
+    {
+      "id": "4cFA4oS3V97FP-rCbDaJ9",
+      "name": "Geo",
+      "value": "#640000"
+    },
+    {
+      "id": "1_7apsSpeZmP07dlNEhWo",
+      "name": "Englisch",
+      "value": "#c4fa00"
+    },
+    {
+      "id": "h68nPIn2W4zGo0mv2Pch6",
+      "name": "Wr",
+      "value": "#00ffaa"
+    },
+    {
+      "id": "8JbQcLhTZNX47sFzRiKcT",
+      "name": "Latein",
+      "value": "#5050fa"
+    },
+    {
+      "id": "4hSwO4_y_ui5FYl0lWehn",
+      "name": "Mathe",
+      "value": "#ff0000"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Klasse 10/Astronomie",
+      "color": "OFS6drXE-3PMv9Ns_-157"
+    },
+    {
+      "path": "Klasse 10/Biologie",
+      "color": "vYC8F4oeP9u10f9TSClyB"
+    },
+    {
+      "path": "Klasse 10/Chemie",
+      "color": "P4h5poYLud0lLPkWMQNU8"
+    },
+    {
+      "path": "Klasse 10/Deutsch",
+      "color": "V4ksY7UTmzDPowq7L7RmP"
+    },
+    {
+      "path": "Klasse 10/English",
+      "color": "1_7apsSpeZmP07dlNEhWo"
+    },
+    {
+      "path": "Klasse 10/Geographie",
+      "color": "4cFA4oS3V97FP-rCbDaJ9"
+    },
+    {
+      "path": "Klasse 10/Geschichte",
+      "color": "v6gGA7jiRuMdIJYBQDdE3"
+    },
+    {
+      "path": "Klasse 10/Info",
+      "color": "9TA8c54i4S61b073zZ_mT"
+    },
+    {
+      "path": "Klasse 10/Physik",
+      "color": "efVSBPtUncVr6s61mTDWU"
+    },
+    {
+      "path": "Klasse 10/Religion",
+      "color": "f47vWeuUR4brNzed5oWGZ"
+    },
+    {
+      "path": "Klasse 10/Semi",
+      "color": "8N5oNyOwuMbrX9CMMCKFj"
+    },
+    {
+      "path": "Klasse 10/Sozi",
+      "color": "WF2JzQt1KCb_zSugcOiNn"
+    },
+    {
+      "path": "Klasse 10/WR",
+      "color": "h68nPIn2W4zGo0mv2Pch6"
+    },
+    {
+      "path": "Klasse 10/Latein",
+      "color": "8JbQcLhTZNX47sFzRiKcT"
+    },
+    {
+      "path": "Klasse 10/Mathe",
+      "color": "4hSwO4_y_ui5FYl0lWehn"
+    },
+    {
+      "path": "Klasse 11/Info",
+      "color": "9TA8c54i4S61b073zZ_mT"
+    },
+    {
+      "path": "Klasse 11/Physik",
+      "color": "efVSBPtUncVr6s61mTDWU"
+    },
+    {
+      "path": "Klasse 11/Chemie",
+      "color": "P4h5poYLud0lLPkWMQNU8"
+    },
+    {
+      "path": "Klasse 11/English",
+      "color": "1_7apsSpeZmP07dlNEhWo"
+    },
+    {
+      "path": "Klasse 11/Deutsch",
+      "color": "V4ksY7UTmzDPowq7L7RmP"
+    },
+    {
+      "path": "Klasse 11/Mathe",
+      "color": "4hSwO4_y_ui5FYl0lWehn"
+    },
+    {
+      "path": "Klasse 11/Religion",
+      "color": "f47vWeuUR4brNzed5oWGZ"
+    },
+    {
+      "path": "Klasse 11/Geschichte",
+      "color": "v6gGA7jiRuMdIJYBQDdE3"
+    },
+    {
+      "path": "Klasse 11/Semi",
+      "color": "8N5oNyOwuMbrX9CMMCKFj"
+    },
+    {
+      "path": "Klasse 11/Kunst",
+      "color": "WF2JzQt1KCb_zSugcOiNn"
+    }
+  ]
+}

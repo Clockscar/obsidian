@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1759386816208,
+      "title": "default",
+      "options": {
+        "collapse-filter": false,
+        "search": "",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "path:\"Klasse 10/Deutsch\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 1006769
+            }
+          },
+          {
+            "query": "path:\"Klasse 10/Info\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 4041823
+            }
+          },
+          {
+            "query": " path:\"Klasse 10/Sozi\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 13403707
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": false,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.8520839077660268,
+        "close": false
+      }
+    },
+    {
+      "type": "file",
+      "ctime": 1775989874472,
+      "path": "Klasse 10/Klasse 10.md",
+      "title": "Klasse 10"
+    }
+  ]
+}

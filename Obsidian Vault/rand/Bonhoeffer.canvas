@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"c2da7c7e684d2ea1","type":"text","text":"Sohn","x":-520,"y":-80,"width":250,"height":60,"color":"5"},
+		{"id":"8db1dd81ac8d566a","type":"text","text":"Lehrer","x":160,"y":-80,"width":250,"height":60,"color":"5"},
+		{"id":"5aab986f8588fae2","type":"text","text":"Lüge","x":-395,"y":100,"width":250,"height":60,"color":"4"},
+		{"id":"67f609c1eadcfa85","type":"text","text":"Frage","x":35,"y":100,"width":250,"height":60,"color":"4"},
+		{"id":"9d05908d897dc76b","type":"text","text":"Ordnung der Familie","x":-180,"y":240,"width":250,"height":60,"color":"2"},
+		{"id":"c43bcc66fd7d5d31","type":"text","text":"wahr = der Wahrheit gemäß","x":-480,"y":300,"width":250,"height":60},
+		{"id":"c19ff295f1df6558","type":"text","text":"Schuld der Lüge fällt auf den Lehrer zurück","x":120,"y":300,"width":250,"height":60},
+		{"id":"9ae32036e3770c5c","type":"text","text":"Christliche Ethik\nBonhoeffer: Wahrheit und Lüge","x":-230,"y":-95,"width":350,"height":90,"color":"1"}
+	],
+	"edges":[
+		{"id":"fcfd4e92edef36c0","fromNode":"c2da7c7e684d2ea1","fromSide":"bottom","toNode":"5aab986f8588fae2","toSide":"top","label":"Solidarität mit Vater"},
+		{"id":"ef75c53cb549b99d","fromNode":"8db1dd81ac8d566a","fromSide":"bottom","toNode":"67f609c1eadcfa85","toSide":"top","label":"Versuch den Vater bloßzustellen"},
+		{"id":"cfaa9de4c7889f68","fromNode":"67f609c1eadcfa85","fromSide":"bottom","toNode":"9d05908d897dc76b","toSide":"top","label":"missachtet"},
+		{"id":"28521500b3a003ad","fromNode":"5aab986f8588fae2","fromSide":"bottom","toNode":"9d05908d897dc76b","toSide":"top","label":"schützt"},
+		{"id":"6f5ee0b31239abe2","fromNode":"c43bcc66fd7d5d31","fromSide":"right","toNode":"c19ff295f1df6558","toSide":"left","fromEnd":"arrow"},
+		{"id":"29e940c63ad2e131","fromNode":"5aab986f8588fae2","fromSide":"bottom","toNode":"c43bcc66fd7d5d31","toSide":"top"},
+		{"id":"4e3501f26920fb7a","fromNode":"67f609c1eadcfa85","fromSide":"bottom","toNode":"c19ff295f1df6558","toSide":"top"}
+	]
+}

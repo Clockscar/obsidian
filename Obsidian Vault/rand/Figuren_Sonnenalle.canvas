@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"b7c549259b43225b","type":"text","text":"Sabine","x":-875,"y":20,"width":250,"height":60},
+		{"id":"849edc8db3f366cb","type":"text","text":"Mario","x":110,"y":20,"width":250,"height":60},
+		{"id":"5ee3be1634ee7b43","type":"text","text":"Brille","x":490,"y":20,"width":250,"height":60},
+		{"id":"aaf51db8e5569601","type":"text","text":"Clique","x":310,"y":-140,"width":250,"height":60,"color":"1"},
+		{"id":"866d6ac98a5fcda8","type":"text","text":"Heinz","x":-1100,"y":-140,"width":250,"height":60},
+		{"id":"b3298d6a2522480d","type":"text","text":"Familie Kuppisch","x":-625,"y":-140,"width":250,"height":60,"color":"4"},
+		{"id":"b42b775d1f84885f","type":"text","text":"Doris","x":-875,"y":-300,"width":250,"height":60},
+		{"id":"f6f99e2eea2d9af2","type":"text","text":"der Dicke","x":110,"y":-300,"width":250,"height":60},
+		{"id":"39f3d7c36065f74e","type":"text","text":"Wuschel","x":490,"y":-300,"width":250,"height":60},
+		{"id":"082b5b64b833b689","type":"text","text":"Micha\nMischa\nMichael","x":-160,"y":-170,"width":140,"height":120,"color":"5"},
+		{"id":"4dd4eab3799358cb","type":"text","text":"Horst","x":-500,"y":-300,"width":250,"height":60},
+		{"id":"ae78b045ab8e4684","type":"text","text":"Bernd","x":-500,"y":20,"width":250,"height":60},
+		{"id":"36d5649d28db4176","type":"text","text":"ABV Hockenfeld","x":-410,"y":180,"width":250,"height":60,"color":"2"},
+		{"id":"1d11562fcd30f6dd","type":"text","text":"Miriam","x":-20,"y":180,"width":250,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"23d5626b5330e32a","fromNode":"b3298d6a2522480d","fromSide":"bottom","toNode":"ae78b045ab8e4684","toSide":"top"},
+		{"id":"bc3f6ba5da674030","fromNode":"b3298d6a2522480d","fromSide":"bottom","toNode":"b7c549259b43225b","toSide":"top"},
+		{"id":"63028128399fd492","fromNode":"b3298d6a2522480d","fromSide":"left","toNode":"866d6ac98a5fcda8","toSide":"right","label":"Onkel"},
+		{"id":"2844c3a1fb1ce045","fromNode":"b3298d6a2522480d","fromSide":"top","toNode":"b42b775d1f84885f","toSide":"bottom","label":"Mutter"},
+		{"id":"23f7c1f9df970e1d","fromNode":"b3298d6a2522480d","fromSide":"top","toNode":"4dd4eab3799358cb","toSide":"bottom","label":"Vater"},
+		{"id":"710dd8dc90b06be8","fromNode":"866d6ac98a5fcda8","fromSide":"top","toNode":"b42b775d1f84885f","toSide":"left","toEnd":"none","label":"Geschwister"},
+		{"id":"d99e1c2275634fd6","fromNode":"aaf51db8e5569601","fromSide":"bottom","toNode":"849edc8db3f366cb","toSide":"top"},
+		{"id":"5596b8c420121ba4","fromNode":"aaf51db8e5569601","fromSide":"bottom","toNode":"5ee3be1634ee7b43","toSide":"top"},
+		{"id":"1a73f7d62713fe4f","fromNode":"aaf51db8e5569601","fromSide":"top","toNode":"39f3d7c36065f74e","toSide":"bottom"},
+		{"id":"733ebbe23ec5d292","fromNode":"aaf51db8e5569601","fromSide":"top","toNode":"f6f99e2eea2d9af2","toSide":"bottom"},
+		{"id":"8ed48d74f3d447d5","fromNode":"b3298d6a2522480d","fromSide":"right","toNode":"082b5b64b833b689","toSide":"left"},
+		{"id":"f00e9db348a48d0d","fromNode":"aaf51db8e5569601","fromSide":"left","toNode":"082b5b64b833b689","toSide":"right"},
+		{"id":"3b02db34d1f9f227","fromNode":"b7c549259b43225b","fromSide":"right","toNode":"ae78b045ab8e4684","toSide":"left","toEnd":"none"},
+		{"id":"9f1b0ead5c624d3e","fromNode":"ae78b045ab8e4684","fromSide":"right","toNode":"082b5b64b833b689","toSide":"bottom","toEnd":"none","label":"Geschwister"}
+	]
+}

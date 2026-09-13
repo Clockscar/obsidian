@@ -1,0 +1,293 @@
+/* Applied when PDF dark mode is active.
+   Values come from plugin settings via CSS variables on body:
+   --pdf-tdm-invert                    (0–1, conversion amount / darkness)
+   --pdf-tdm-hue                       (e.g. 180deg, color correction)
+   --pdf-tdm-brightness                (0.2–2, brightness; min 20%, max 200%)
+   --pdf-tdm-find-highlight            (current Find match fill; ring is a darker mix)
+*/
+
+/*
+ * Invert painted page layers, not .textLayer.
+ * PDF.js Find marks live in the text layer and default to light purple at
+ * ~25% opacity; filtering the whole .pdfViewer turns that into a dark
+ * smudge. Leaving the text layer unfiltered lets Find use a real dark-mode
+ * color instead.
+ */
+.pdfViewer.pdf-dark-mode .canvasWrapper,
+.pdfViewer.pdf-dark-mode .annotationLayer,
+.pdfViewer.pdf-dark-mode .xfaLayer,
+.pdfViewer.pdf-dark-mode .annotationEditorLayer {
+	filter: invert(var(--pdf-tdm-invert, 1))
+		hue-rotate(var(--pdf-tdm-hue, 180deg))
+		brightness(var(--pdf-tdm-brightness, 1));
+}
+
+/* .page is white in PDF.js; without a viewer-level invert it would flash. */
+.pdfViewer.pdf-dark-mode .page {
+	background-color: color-mix(
+		in srgb,
+		#fff calc((1 - var(--pdf-tdm-invert, 1)) * 100%),
+		#000
+	);
+}
+
+/* Older PDF.js sets .textLayer { opacity: 0.25 }, which would fade matches. */
+.pdfViewer.pdf-dark-mode .textLayer {
+	opacity: 1;
+}
+
+/*
+ * Extra Find marks (Highlight all) use an opaque yellow fill. On an inverted
+ * page that covers the canvas glyphs — a redaction bar. Don’t paint them.
+ */
+.pdf-container .pdfViewer.pdf-dark-mode .textLayer .highlight:not(.selected),
+.pdfViewer.pdf-dark-mode .textLayer .highlight:not(.selected) {
+	--highlight-bg-color: transparent;
+	background-color: transparent;
+	box-shadow: none;
+}
+
+/*
+ * Current match only. Translucent fill so inverted glyphs stay readable;
+ * ring is a darker mix of the same color (not a separate setting).
+ * Specificity beats `.pdf-container .textLayer .highlight.selected`.
+ */
+.pdf-container .pdfViewer.pdf-dark-mode .textLayer .highlight.selected,
+.pdfViewer.pdf-dark-mode .textLayer .highlight.selected {
+	--highlight-selected-bg-color: color-mix(
+		in srgb,
+		var(--pdf-tdm-find-highlight, #ffc400) 40%,
+		transparent
+	);
+	background-color: var(--highlight-selected-bg-color);
+	box-shadow: 0 0 0 2px
+		color-mix(in srgb, var(--pdf-tdm-find-highlight, #ffc400) 70%, #000);
+}
+
+.pdf-sidebar-container img.thumbnailImage.pdf-dark-mode {
+	filter: invert(var(--pdf-tdm-invert, 1))
+		hue-rotate(var(--pdf-tdm-hue, 180deg))
+		brightness(var(--pdf-tdm-brightness, 1));
+}
+
+/* PDF++ rectangular selection embeds (![[file.pdf#page=N&rect=...]]) */
+.internal-embed.pdf-cropped-embed.pdf-dark-mode,
+.pdf-cropped-embed.pdf-dark-mode {
+	filter: invert(var(--pdf-tdm-invert, 1))
+		hue-rotate(var(--pdf-tdm-hue, 180deg))
+		brightness(var(--pdf-tdm-brightness, 1));
+}
+
+/*
+ * Lightbox CSS-filter fallback only (when canvas bake fails).
+ * Prefer data-pdf-tdm-baked src swap — no filter during zoom animation.
+ */
+.lightbox .media-wrapper img.pdf-dark-mode,
+.lightbox .lightbox-media img.pdf-dark-mode {
+	filter: invert(var(--pdf-tdm-invert, 1))
+		hue-rotate(var(--pdf-tdm-hue, 180deg))
+		brightness(var(--pdf-tdm-brightness, 1));
+}
+
+/*
+ * Zero-flash + smooth open: body class on pointerdown of a dark PDF++ crop.
+ * Hide the raw lightbox img until we swap in baked inverted pixels (or the
+ * CSS-filter fallback class). Do NOT apply filter here — filter + transform
+ * during Obsidian’s zoom animation is what made the open feel sluggish.
+ */
+body.pdf-tdm-expect-pdf-lightbox .lightbox .media-wrapper img:not([data-pdf-tdm-baked]):not(.pdf-dark-mode),
+body.pdf-tdm-expect-pdf-lightbox .lightbox .lightbox-media img:not([data-pdf-tdm-baked]):not(.pdf-dark-mode),
+body.pdf-tdm-expect-pdf-lightbox .lightbox img:not([data-pdf-tdm-baked]):not(.pdf-dark-mode) {
+	visibility: hidden;
+}
+
+/*
+ * Fallback hide for link annotation outlines (body class from main.ts).
+ * Per-node overrides for PDF.js inline borders use setCssProps in main.ts so
+ * this file stays free of review-flagged patterns. Links remain clickable.
+ */
+body.pdf-tdm-hide-link-annotations .workspace .pdfViewer .page .annotationLayer section,
+body.pdf-tdm-hide-link-annotations .workspace .pdfViewer .page .annotationLayer section.linkAnnotation,
+body.pdf-tdm-hide-link-annotations .workspace .pdfViewer .page .annotationLayer .linkAnnotation > a,
+body.pdf-tdm-hide-link-annotations .workspace .pdfViewer .page .annotationLayer a,
+body.pdf-tdm-hide-link-annotations .pdfViewer .annotationLayer section,
+body.pdf-tdm-hide-link-annotations .pdfViewer .annotationLayer section.linkAnnotation,
+body.pdf-tdm-hide-link-annotations .pdfViewer .annotationLayer .linkAnnotation > a,
+body.pdf-tdm-hide-link-annotations .pdfViewer .annotationLayer a {
+	border-width: 0;
+	border-style: none;
+	border-color: transparent;
+	outline-width: 0;
+	outline-style: none;
+	outline-color: transparent;
+	box-shadow: none;
+	background-color: transparent;
+	background-image: none;
+}
+
+/* Status bar control */
+.pdf-toggle-dark-mode-status {
+	display: inline-flex;
+	align-items: center;
+	gap: 4px;
+	cursor: pointer;
+	padding: 0 6px;
+}
+
+.pdf-toggle-dark-mode-status:hover {
+	color: var(--text-accent);
+}
+
+.pdf-toggle-dark-mode-status-icon {
+	display: inline-flex;
+	align-items: center;
+}
+
+.pdf-toggle-dark-mode-status-icon svg {
+	width: 14px;
+	height: 14px;
+}
+
+/*
+ * PDF toolbar controls (PDF++-style mount on toolbar left).
+ * Layout: [spacer] [toggle] [Dark] [Color] [Bright] [Find swatch]
+ */
+.pdf-tdm-toolbar {
+	user-select: none;
+	-webkit-user-select: none;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	gap: var(--size-2-2, 4px);
+	flex-shrink: 0;
+	min-width: 0;
+}
+
+.pdf-tdm-toolbar .pdf-tdm-toggle {
+	flex-shrink: 0;
+}
+
+.pdf-tdm-toolbar .pdf-tdm-toggle.is-active {
+	color: var(--interactive-accent);
+}
+
+/* Sliders only when dark mode is on (toggled via .is-visible) */
+.pdf-tdm-sliders {
+	display: none;
+	flex-direction: row;
+	align-items: center;
+	gap: var(--size-4-2, 8px);
+	min-width: 0;
+}
+
+.pdf-tdm-sliders.is-visible {
+	display: flex;
+}
+
+.pdf-tdm-slider-group {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	gap: var(--size-2-2, 4px);
+	min-width: 0;
+}
+
+.pdf-tdm-slider-label {
+	font-size: var(--font-ui-smaller, 11px);
+	color: var(--text-muted);
+	white-space: nowrap;
+	line-height: 1;
+}
+
+.pdf-tdm-slider-value {
+	font-size: var(--font-ui-smaller, 11px);
+	color: var(--text-muted);
+	font-variant-numeric: tabular-nums;
+	min-width: 3ch;
+	text-align: right;
+	white-space: nowrap;
+	line-height: 1;
+}
+
+/* Per-slider reset (rotate-ccw) — compact so three groups still fit */
+.pdf-tdm-toolbar .pdf-tdm-slider-reset {
+	flex-shrink: 0;
+	width: var(--size-4-4, 16px);
+	height: var(--size-4-4, 16px);
+	padding: 0;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	color: var(--text-muted);
+}
+
+.pdf-tdm-toolbar .pdf-tdm-slider-reset:hover {
+	color: var(--text-accent);
+}
+
+.pdf-tdm-toolbar .pdf-tdm-slider-reset svg {
+	width: 12px;
+	height: 12px;
+}
+
+.pdf-tdm-toolbar .pdf-tdm-slider {
+	/* Compact range so three sliders fit next to native PDF toolbar buttons */
+	width: 56px;
+	max-width: 14vw;
+	margin: 0;
+	padding: 0;
+	height: var(--size-4-2, 8px);
+	cursor: pointer;
+}
+
+/* Native color swatches — sized like the 16px slider-reset icons */
+.pdf-tdm-toolbar .pdf-tdm-color-input {
+	-webkit-appearance: none;
+	appearance: none;
+	box-sizing: border-box;
+	width: var(--size-4-4, 16px);
+	height: var(--size-4-4, 16px);
+	margin: 0;
+	padding: 0;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--radius-s, 4px);
+	background: transparent;
+	cursor: pointer;
+	flex-shrink: 0;
+}
+
+.pdf-tdm-toolbar .pdf-tdm-color-input::-webkit-color-swatch-wrapper {
+	padding: 0;
+}
+
+.pdf-tdm-toolbar .pdf-tdm-color-input::-webkit-color-swatch {
+	border: none;
+	border-radius: calc(var(--radius-s, 4px) - 1px);
+}
+
+.pdf-tdm-toolbar .pdf-tdm-color-input::-moz-color-swatch {
+	border: none;
+	border-radius: calc(var(--radius-s, 4px) - 1px);
+}
+
+/* Narrow toolbars / phone: hide percent text, keep sliders usable */
+.is-phone .pdf-tdm-slider-value,
+.is-mobile .pdf-tdm-slider-label {
+	display: none;
+}
+
+.is-phone .pdf-tdm-toolbar .pdf-tdm-slider {
+	width: 56px;
+}
+
+/* Very tight widths: stack less, prefer icon-only if needed */
+@media (max-width: 480px) {
+	.pdf-tdm-slider-label,
+	.pdf-tdm-slider-value {
+		display: none;
+	}
+
+	.pdf-tdm-toolbar .pdf-tdm-slider {
+		width: 48px;
+	}
+}

@@ -1,0 +1,10 @@
+{
+  "isDark": true,
+  "adaptToTheme": true,
+  "conversionAmount": 0.9,
+  "hueRotation": 180,
+  "brightness": 1,
+  "showLinkAnnotations": true,
+  "findHighlightColor": "#00fffb",
+  "showToolbarButtons": true
+}

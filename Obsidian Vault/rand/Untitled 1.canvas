@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"6110579eccb61393","type":"text","text":"bildet neues Organ aus","x":80,"y":100,"width":250,"height":60,"color":"2"},
+		{"id":"4e6e17182d24596c","type":"text","text":"Organ wird verwendet","x":425,"y":101,"width":250,"height":60,"color":"2"},
+		{"id":"72f2b8b00d8a6be2","type":"text","text":"Vervollkommnung des Organs","x":775,"y":102,"width":250,"height":60,"color":"2"},
+		{"id":"33839a2fe6d72ed6","type":"text","text":"Organ / Merkmal wird vererbt","x":1124,"y":102,"width":250,"height":60,"color":"2"},
+		{"id":"8bb5a04db64c63f6","type":"text","text":"VIS VITALIS","x":330,"y":-40,"width":140,"height":50,"color":"4"}
+	],
+	"edges":[
+		{"id":"6b9a11055b1a95cd","fromNode":"8bb5a04db64c63f6","fromSide":"bottom","toNode":"6110579eccb61393","toSide":"top"},
+		{"id":"801455c7ef3d1044","fromNode":"6110579eccb61393","fromSide":"right","toNode":"4e6e17182d24596c","toSide":"left"},
+		{"id":"ed0e12ac5c53e55f","fromNode":"4e6e17182d24596c","fromSide":"right","toNode":"72f2b8b00d8a6be2","toSide":"left"},
+		{"id":"afed3223323f4ed2","fromNode":"72f2b8b00d8a6be2","fromSide":"right","toNode":"33839a2fe6d72ed6","toSide":"left"},
+		{"id":"2a2b38df4f02daaf","fromNode":"33839a2fe6d72ed6","fromSide":"top","toNode":"4e6e17182d24596c","toSide":"top","color":"1"},
+		{"id":"4a5d4ca9311d32d6","fromNode":"8bb5a04db64c63f6","fromSide":"right","toNode":"72f2b8b00d8a6be2","toSide":"top","toEnd":"none","label":"treibt an"},
+		{"id":"2f8a4d90625e67ed","fromNode":"8bb5a04db64c63f6","fromSide":"left","toNode":"6110579eccb61393","toSide":"top","toEnd":"none","label":"treibt an"}
+	]
+}
