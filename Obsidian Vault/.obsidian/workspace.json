@@ -36,15 +36,27 @@
             }
           },
           {
-            "id": "9eabb24baff3fa1d",
+            "id": "badc2c1f0567966f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-12 10.38.42.excalidraw.md"
+                "file": "Klasse 11/Info/Zahlen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-12 10.38.42.excalidraw"
+              "icon": "lucide-file",
+              "title": "Zahlen"
             }
           }
         ],
@@ -189,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-12 10.38.42.excalidraw.md",
+                "file": "Klasse 11/Info/Zahlen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,7 +216,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-12 10.38.42.excalidraw.md"
+                "file": "Klasse 11/Info/Zahlen.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -275,11 +287,14 @@
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
-      "star-icons:Star Icons — open the Icon Manager": false
+      "star-icons:Star Icons — open the Icon Manager": false,
+      "mathpad:Open Mathpad": false
     }
   },
-  "active": "9eabb24baff3fa1d",
+  "active": "c4c291384066794c",
   "lastOpenFiles": [
+    "Klasse 10/WR/Wirtschaftsordnung.md",
+    "Excalidraw/Drawing 2026-03-12 10.38.42.excalidraw.md",
     "Klasse 10/English/2026-05-21.md",
     "Klasse 11/English/Finding your place - the individual in society.md",
     "test.md",
@@ -309,8 +324,6 @@
     "Clippings",
     "Excalidraw/Drawing 2026-08-24 12.26.01.excalidraw.md",
     "Klasse 11/Religion/Themen.md",
-    "Excalidraw/Drawing 2026-09-04 19.25.45.excalidraw.md",
-    "Excalidraw/Drawing 2026-09-03 12.18.08.excalidraw.md",
     "rand/Pasted Image 20260906113624_568.png",
     "rand/Pasted image 20260906113609.png",
     "rand/Satzglieder Deu 11.pdf"
