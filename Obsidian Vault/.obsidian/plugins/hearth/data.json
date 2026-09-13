@@ -301,7 +301,7 @@
           "x": 0,
           "y": 4,
           "kind": "text",
-          "title": "",
+          "title": "Notes",
           "text": "",
           "w": 4,
           "h": 2,
@@ -320,7 +320,7 @@
           "x": 6,
           "y": 7,
           "kind": "git",
-          "title": "",
+          "title": "Git",
           "git": {
             "sections": [
               "status",
@@ -339,7 +339,10 @@
           "fy": 699,
           "fw": 0.5,
           "fh": 937,
-          "cardOpacity": 0
+          "cardOpacity": 0,
+          "mobile": {
+            "collapsed": true
+          }
         }
       ],
       "background": {

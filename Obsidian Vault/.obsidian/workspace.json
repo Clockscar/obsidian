@@ -13,7 +13,11 @@
             "pinned": true,
             "state": {
               "type": "hearth-home-view",
-              "state": {},
+              "state": {
+                "scroll": {
+                  "dash-mrmmigzt-2357": 710
+                }
+              },
               "pinned": true,
               "icon": "hearth-crystal",
               "title": "Home"
@@ -235,7 +239,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       },
       {
         "id": "896d79ad3de22101",
@@ -282,7 +286,7 @@
       "star-icons:Star Icons — open the Icon Manager": false
     }
   },
-  "active": "7e45bf40073682c8",
+  "active": "c4c291384066794c",
   "lastOpenFiles": [
     "Klasse 11/English/Finding your place - the individual in society.md",
     "test.md",
