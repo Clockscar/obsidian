@@ -30,33 +30,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "b41e9d76874aaded",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "test"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,7 +173,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -281,7 +256,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6818909f59d36cb",
+  "active": "c4c291384066794c",
   "lastOpenFiles": [
     "test.md",
     "Klasse 11/Geschichte/Vortrag.md",

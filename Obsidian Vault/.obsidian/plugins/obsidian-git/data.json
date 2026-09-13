@@ -1,6 +1,6 @@
 {
-  "commitMessage": "Vault: \n{{date}}\n{{hostname}}\n{{numFiles}}\n--\n{{files}}",
-  "autoCommitMessage": "Vault: \n{{date}}\n{{hostname}}\n{{numFiles}}\n--\n{{files}}",
+  "commitMessage": "-- manual --\nDate: {{date}}\nName: {{hostname}}\n# files changed: {{numFiles}}\n\n--affected--\n{{files}}",
+  "autoCommitMessage": "Date: {{date}}\nName: {{hostname}}\n# files changed: {{numFiles}}\n\n--affected--\n{{files}}",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 5,
