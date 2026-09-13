@@ -307,10 +307,36 @@
           "h": 2,
           "fx": 0,
           "fy": 699,
-          "fw": 1,
+          "fw": 0.487468671679198,
           "fh": 937,
           "cardOpacity": 0,
           "cardBlur": 0
+        },
+        {
+          "id": "card-mu0ck0xr-5166",
+          "x": 6,
+          "y": 7,
+          "kind": "git",
+          "title": "Git",
+          "git": {
+            "sections": [
+              "status",
+              "actions",
+              "changes",
+              "log"
+            ],
+            "askForMessage": true,
+            "showPaths": true,
+            "actionStyle": "labelled",
+            "logLimit": 25
+          },
+          "w": 4,
+          "h": 4,
+          "fx": 0.5,
+          "fy": 699,
+          "fw": 0.5,
+          "fh": 937,
+          "cardOpacity": 0
         }
       ],
       "background": {
