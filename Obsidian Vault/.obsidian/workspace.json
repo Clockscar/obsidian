@@ -30,9 +30,32 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "dfbb883d594ee557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Klasse 11/English/Finding your place - the individual in society.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Finding your place - the individual in society"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,6 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Klasse 11/English/Finding your place - the individual in society.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -214,7 +238,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       },
       {
         "id": "896d79ad3de22101",
@@ -256,7 +280,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4c291384066794c",
+  "active": "31c09e483b77f287",
   "lastOpenFiles": [
     "test.md",
     "Klasse 11/Geschichte/Vortrag.md",
