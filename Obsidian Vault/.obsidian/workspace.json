@@ -55,8 +55,7 @@
               "title": "Finding your place - the individual in society"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +196,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Klasse 11/English/Finding your place - the individual in society.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -211,9 +209,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Klasse 11/Info/Boolesche Algebra.md"
-              },
+              "state": {},
               "icon": "lucide-info",
               "title": "File properties"
             }
@@ -239,7 +235,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       },
       {
         "id": "896d79ad3de22101",
@@ -282,10 +278,11 @@
       "pdf-toggle-dark-mode:PDF appearance: Dark (click for Light) · adapting to theme": false,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "star-icons:Star Icons — open the Icon Manager": false
     }
   },
-  "active": "8fc5700ddbef703c",
+  "active": "7e45bf40073682c8",
   "lastOpenFiles": [
     "Klasse 11/English/Finding your place - the individual in society.md",
     "test.md",
