@@ -6,7 +6,7 @@
   "themeColorTarget": "none",
   "showSearch": true,
   "searchPlaceholder": "Search or command",
-  "showNewNoteButton": true,
+  "showNewNoteButton": false,
   "newNoteButtonMode": "newNote",
   "newNoteButtonLabel": "  ",
   "newNoteTemplate": "rand/Templates/Default.md",
@@ -71,7 +71,7 @@
   },
   "openFromOutside": "same",
   "performanceTier": "full",
-  "mobilePerformanceTier": "balanced",
+  "mobilePerformanceTier": "match",
   "lowPowerBackgroundColor": "#4a4459",
   "pauseWhenUnfocused": true,
   "compact": true,
@@ -86,33 +86,7 @@
     {
       "id": "dash-mrnbvda5-8400",
       "name": "Dashboard 3",
-      "cards": [
-        {
-          "id": "card-mtwu7gpb-9867",
-          "kind": "clock",
-          "title": "",
-          "x": 0,
-          "y": 0,
-          "w": 12,
-          "h": 3,
-          "fx": 0.23404255319148937,
-          "fw": 0.3778207607994842,
-          "fy": 0,
-          "fh": 224,
-          "clock": {
-            "playfulGreetings": true,
-            "use24Hour": true,
-            "showSeconds": true,
-            "dateMode": "long",
-            "mode": "digital"
-          },
-          "cardBlur": 0,
-          "cardOpacity": 0,
-          "weather": {},
-          "datacore": {},
-          "cardBorderWidth": 0
-        }
-      ],
+      "cards": [],
       "header": {
         "titleScale": 1.8,
         "logoScale": 1.8,

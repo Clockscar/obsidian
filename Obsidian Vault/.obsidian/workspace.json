@@ -31,7 +31,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,10 +253,11 @@
       "cmdr:LaTeX to Unicode converter: LaTeX to Unicode": false,
       "hearth:Open Hearth home": false,
       "pdf-toggle-dark-mode:PDF appearance: Dark (click for Light) · adapting to theme": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "7e45bf40073682c8",
+  "active": "6f34454baf136057",
   "lastOpenFiles": [
     "Klasse 11/English/Finding your place - the individual in society.md",
     "test.md",
