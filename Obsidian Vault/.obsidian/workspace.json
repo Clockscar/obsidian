@@ -239,7 +239,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       },
       {
         "id": "896d79ad3de22101",
@@ -260,8 +260,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,7 +285,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "badc2c1f0567966f",
+  "active": "c4c291384066794c",
   "lastOpenFiles": [
     "Klasse 11/English/Finding your place - the individual in society.md",
     "Klasse 11/Info/Zahlen.md",
