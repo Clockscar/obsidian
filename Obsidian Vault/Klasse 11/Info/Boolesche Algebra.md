@@ -57,3 +57,42 @@ a $\leftrightarrow$ b = (a$\to$b) $\wedge$ (b$\to$a)
 1  0  0     1 0 0   0  0 1 1
 0  0  1     0 1 1   0  1 0 0
 1  1  1     1 1 1  1   1 1 1
+
+zwei boolesche Ausdrücke sind wertgleich, wenn ihre Wertetabellen gleich sind
+$a\wedge b = b\wedge a$
+0 0 0    0 0 0
+1 0 0    1 0 0
+0 0 1    0 0 1
+1 1 1    1 1 1
+
+$a\vee b = b\vee a$
+0 0 0    0 0 0
+1 1 0    1 1 0
+0 1 1    0 1 1
+1 1 1    1 1 1
+
+$a\wedge \neg a= 0$
+0 0 1
+1 0 0
+
+$a\vee \neg a= 1$
+0 1 1
+1 1 0
+
+$a\wedge a=a$
+0 0 0 = 0
+1 1 1 = 1
+
+$a\vee a=a$
+0 0 0 = 0
+1 1 1 = 1
+
+$a\wedge 1=a$
+0 0 1 = 0
+1 1 1 = 1
+
+$a\vee 0=a$
+0 0 0 = 0
+1 1 0 = 1
+
+$a\wedge (b\vee c)= a\wedge b\vee a \wedge c$
