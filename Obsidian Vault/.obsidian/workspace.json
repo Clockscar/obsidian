@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Klasse 11/English/Finding your place - the individual in society.md",
+                "file": "Klasse 11/Info/Boolesche Algebra.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Finding your place - the individual in society"
+              "title": "Boolesche Algebra"
             }
           }
         ],
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Klasse 11/Info/Zahlen.md",
+                "file": "Klasse 11/Info/Boolesche Algebra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -239,7 +239,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       },
       {
         "id": "896d79ad3de22101",
@@ -260,7 +260,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,13 +286,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c4c291384066794c",
+  "active": "badc2c1f0567966f",
   "lastOpenFiles": [
+    "Klasse 11/English/Finding your place - the individual in society.md",
     "Klasse 11/Info/Zahlen.md",
     "Klasse 10/WR/Wirtschaftsordnung.md",
     "Excalidraw/Drawing 2026-03-12 10.38.42.excalidraw.md",
     "Klasse 10/English/2026-05-21.md",
-    "Klasse 11/English/Finding your place - the individual in society.md",
     "test.md",
     "Klasse 11/Geschichte/Vortrag.md",
     "Klasse 11/Deutsch/Kurzgeschichte.md",

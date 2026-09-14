@@ -179,3 +179,21 @@ For example:
 
 The manifesto "Woman and power" by Professor Mary Beard describes the many problems ans prejudices regarding woman in powerful positions.
 Mary Beard wants to convey her message that woman in power should be a normal things and should be respected by others and not looked down upon as *"they don't deserve it"*. To convince the reader she uses a lot of of inclusive language ("we would all" (l.1), "If we close our eyes and try to conjure" (l.7)). To strengthen her point she gives some statistical evidence in lines 4 - 6, thereby making her claims appear more credible to urge the reader to accept her position. After that the author then presents a short anecdote about googling "cartoon professor". This story also provides some data (only 1 of 100 pictures includes a female professor) to build credibility. It is used to underline her personal experience "even if you are a woman professor: the cultural stereotype is so strong" (l.9-10) and to evoke the reader to think about these exact stereotypes. To highlight the problem, that we don't have any idea what a powerful woman should look like, she gives examples of powerful and famous woman and how they had to adapt to be accepted. The author try's to display these examples as bad examples by describing their clothing as “regulation trouser suits” (l.17) or "clothes horse" (l.20). These words have negative connotations, as “regulation” suggests that women have to follow certain rules, while “clothes horse” reduces them to their appearance.
+# Mediation
+- transcribing a text to another person
+- Analyze the text you should produce
+	- style
+	- register
+	- text type
+- select necessary Information
+- communicate the Information
+	- cultural background
+- paraphrase unknown word
+
+Dear team,
+I've found an offical text about the political situation in saxony called "Engagement in Saxony".
+Saxony is a state in east Germany. It is experiencing backwards growth and aging of society, espacially in rural regions. That leads to many social activities that rely on voluntary work not being provided for anymore: There's a lack of newcomers, while the ones that used to do it can't do it anymore because they are too old.
+While quality of life is mainly decided by hard factors (infrastructure, work oppurtinitys), soft factors such as active clubs or social groups are also important, especially for rural areas.
+But there's hesitance by social organizations to take action politically because they my get cuts to already quite dire finances. Many organizations are showing need for political education and consultation.
+
+Some people propose, that voluntary work can lead to more socially connected and uniform society. While Saxonys population has been not as engaged in politics in the last years, many youth initiatives have formed in the last years. They include "Fridays for future", groups that engage themself for refugees and many more. 
