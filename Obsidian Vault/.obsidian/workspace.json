@@ -13,11 +13,7 @@
             "pinned": true,
             "state": {
               "type": "hearth-home-view",
-              "state": {
-                "scroll": {
-                  "dash-mrmmigzt-2357": 710
-                }
-              },
+              "state": {},
               "pinned": true,
               "icon": "hearth-crystal",
               "title": "Home"
@@ -41,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Klasse 11/Info/Zahlen.md",
+                "file": "Klasse 11/English/Finding your place - the individual in society.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -56,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Zahlen"
+              "title": "Finding your place - the individual in society"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,7 +239,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "896d79ad3de22101",
@@ -288,7 +285,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "7e45bf40073682c8",
+  "active": "c4c291384066794c",
   "lastOpenFiles": [
     "Klasse 11/Info/Zahlen.md",
     "Klasse 10/WR/Wirtschaftsordnung.md",
