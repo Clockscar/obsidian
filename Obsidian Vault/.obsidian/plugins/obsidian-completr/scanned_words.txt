@@ -1705,6 +1705,7 @@ Anforderung
 Ahnung
 Aktivität
 Aufgabenbuch
+Ausdrücke
 Spektroskopie
 Spektrum
 Stoff
@@ -9614,6 +9615,7 @@ Wolkenflocken
 Wegschicken
 Widerlicher
 Widerli
+Wertetabellen
 Farben
 For
 Form
@@ -12762,6 +12764,7 @@ wohlzutun
 wirkende
 winzigen
 wirkliche
+wertgleich
 stark
 sendet
 spezielle
@@ -63602,6 +63605,7 @@ beschwichtigte
 begriff
 braunen
 breit
+boolesche
 Halfpipe
 Höhen
 Hügel
