@@ -100,3 +100,9 @@ $a\wedge (b\vee c)= a\wedge b\vee a \wedge c$
 1 0  0 0 0  = 1 0 0 0 1 0 0
 0 0  1 1 0  = 0 0 1 0 0 0 0
 0 0  0 1 1  = 1 1 1 1 1 0 0
+
+$\neg(a\wedge b)=\neg a \vee \neg b$
+1  0 0 0  = 1 0 y 1 0
+1  1 0 0  = 0 1 y 1 0
+1  0 0 1  = 1 0 y 0 1
+0  1 1 1  = 0 1 y 0 1
