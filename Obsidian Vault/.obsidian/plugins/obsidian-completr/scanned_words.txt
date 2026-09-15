@@ -1708,6 +1708,7 @@ Aufgabenbuch
 Ausdrücke
 Analyze
 Acording
+Aufladung
 Spektroskopie
 Spektrum
 Stoff
@@ -22522,6 +22523,7 @@ already
 agitated
 average
 antisemitic
+afdbfa
 Ursache
 UtbTwJE
 Uhr
@@ -28553,6 +28555,8 @@ decided
 dire
 discriminatory
 decide
+ddaa
+dbff
 Daraus
 Dopplereffekt
 Drawing
@@ -31623,6 +31627,7 @@ future
 freetime
 fact
 finance
+fdcf
 prozentuale
 plugin
 parsed
@@ -33247,6 +33252,7 @@ propose
 population
 politics
 poor
+pXRAzcJl
 Zusammensetzung
 Zeitrechnung
 Zeiger
@@ -39552,6 +39558,7 @@ Räder
 Roller
 Rondellen
 Rabatten
+RijPVgDC
 Verschiebung
 VIEW
 Verformungsarbeit
@@ -53139,6 +53146,8 @@ consultation
 connected
 connectedness
 consulting
+cnreIIN
+cab
 Text
 Tom
 Trost
@@ -63721,6 +63730,7 @@ backwards
 between
 believes
 banking
+bbcee
 Halfpipe
 Höhen
 Hügel
@@ -75965,6 +75975,7 @@ Implikation
 Ionenkristall
 Ionenradius
 Ihn
+IdK
 qEiXtoeT
 qB
 qA
