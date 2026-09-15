@@ -29,14 +29,14 @@ tags:
 - Bauer als Lasttier der menschlichen Gesellschaft
 
 - bis 1683: Colbert 
-- 1774 Ernennung Lduwig XVI
+- 1774 XVI
 - freie Wirtschaft:
-	- keine Eingriffe des Staates mehr
+	- keine Eingriffe des Staates
 	- dezentralisierte Selbstverwaltung
 	- einheitliche Grundsteuer (auf Abgaben)
 	- Aufhebung der Frondienste
 	- Gewerbefreiheit (Aufhebung der Zünfte)
-	- freier Handel mit Getreide für alle
+	- freier Handel Getreide für alle
 - Entlassung 1776 nach Forderungen für Einschränkung des königlichen Hofs
 - große Sorge bei gebildeten Fürsten (Physiokraten): Landwirtschaft vernachlässigt; erhalten und erweitern
 $\longrightarrow$ Neuerungen:
@@ -46,6 +46,16 @@ $\longrightarrow$ Neuerungen:
 - (zwei paar andere Finanzminister)
 - 1776: Necker
 - Merkantilist
-- effizienteres Finanzminister
+- effizienteres Finanzsystem 
 	- einheitliche Regelung der Finanzen
-	- 
+	- Schulden 
+	- Fail: Adel besteuern
+	- Banker
+	- Abschaffung der Folter
+	- Transparenz: Finanzbericht für Bevölkerung
+- Entlassung / Rücktritt 1781 $\longrightarrow$  trotzdem sehr beliebt
+- 1788 wieder eingesetzt
+- Einberufung Generalstände 1789
+	- doppelte Stimmen 3. Stand
+- Entlassung 11. Juli: (Auslöser der Revolution)
+$\longrightarrow$  Französische Revolution

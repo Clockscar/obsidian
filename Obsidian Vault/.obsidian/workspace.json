@@ -32,31 +32,7 @@
             }
           },
           {
-            "id": "708b8a380b4419a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Klasse 11/Geschichte/Vortrag.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Vortrag"
-            }
-          },
-          {
-            "id": "2255facf74662503",
+            "id": "5001dd83ed63ee17",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -310,10 +286,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "708b8a380b4419a1",
+  "active": "5001dd83ed63ee17",
   "lastOpenFiles": [
-    "Klasse 11/English/Finding your place - the individual in society.md",
     "Klasse 11/Geschichte/Vortrag.md",
+    "Klasse 11/English/Finding your place - the individual in society.md",
     "Klasse 11/Info/Boolesche Algebra.md",
     "Klasse 11/Info/Zahlen.md",
     "Klasse 10/WR/Wirtschaftsordnung.md",
