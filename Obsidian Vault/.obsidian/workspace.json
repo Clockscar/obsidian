@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "badc2c1f0567966f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Klasse 11/Info/Boolesche Algebra.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Boolesche Algebra"
-            }
-          },
-          {
             "id": "708b8a380b4419a1",
             "type": "leaf",
             "state": {
@@ -77,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "Vortrag"
+            }
+          },
+          {
+            "id": "2255facf74662503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Klasse 11/English/Finding your place - the individual in society.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Finding your place - the individual in society"
             }
           }
         ],
@@ -263,7 +263,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "896d79ad3de22101",
@@ -309,8 +309,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c4c291384066794c",
+  "active": "2255facf74662503",
   "lastOpenFiles": [
+    "Klasse 11/Geschichte/Vortrag.md",
     "Klasse 11/Info/Boolesche Algebra.md",
     "Klasse 11/English/Finding your place - the individual in society.md",
     "Klasse 11/Info/Zahlen.md",
@@ -318,7 +319,6 @@
     "Excalidraw/Drawing 2026-03-12 10.38.42.excalidraw.md",
     "Klasse 10/English/2026-05-21.md",
     "test.md",
-    "Klasse 11/Geschichte/Vortrag.md",
     "Klasse 11/Deutsch/Kurzgeschichte.md",
     "Klasse 11/Deutsch/Wiederholung.md",
     "rand/Anforderungen Kurs Interpretation Epik Schülerkopie.pdf",
