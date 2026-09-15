@@ -28,3 +28,9 @@ tags:
 	- Trockenlegung der Moore für mehr landwirtschaftliche Nutzfläche mit staatlicher Förderung
 - Bauer als Lasttier der menschlichen Gesellschaft
 
+- bis 1683: Colbert 
+- 1774 Ernennung Lduwig XVI
+- freie Wirtschaft:
+	- keine Eingriffe des Staates mehr
+	- dezentralisierte Selbstverwaltung
+	- 
