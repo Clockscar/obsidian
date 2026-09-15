@@ -40,8 +40,21 @@
               "icon": "hearth-crystal",
               "title": "Home"
             }
+          },
+          {
+            "id": "1a0f4f434d03cdec",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-09-15 23.57.04.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-09-15 23.57.04.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,22 +221,12 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
-            }
-          },
-          {
-            "id": "8474090edf39ec46",
-            "type": "leaf",
-            "state": {
-              "type": "chronology-calendar-view",
-              "state": {},
-              "icon": "clock",
-              "title": "Chronology"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "896d79ad3de22101",
@@ -269,8 +272,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8ac5b7cc1c0d035c",
+  "active": "1a0f4f434d03cdec",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-09-15 23.57.04.excalidraw.md",
     "Excalidraw/Drawing 2026-09-15 12.33.36.excalidraw.md",
     "Klasse 11/Physik/Kondensatoren.md",
     "Klasse 11/English/Finding your place - the individual in society.md",
@@ -301,7 +305,6 @@
     "Klasse 11/Religion/Religion.md",
     "Clippings/Mensch Tier Vergleich.md",
     "Clippings",
-    "Excalidraw/Drawing 2026-08-24 12.26.01.excalidraw.md",
     "rand/Pasted Image 20260906113624_568.png",
     "rand/Pasted image 20260906113609.png",
     "rand/Satzglieder Deu 11.pdf"
