@@ -13,11 +13,7 @@
             "pinned": true,
             "state": {
               "type": "hearth-home-view",
-              "state": {
-                "scroll": {
-                  "dash-mrmmigzt-2357": 878
-                }
-              },
+              "state": {},
               "pinned": true,
               "icon": "hearth-crystal",
               "title": "Home"
@@ -34,20 +30,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "5001dd83ed63ee17",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-09-15 12.33.36.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-15 12.33.36.excalidraw"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +104,7 @@
       {
         "id": "3223b6879b2c0c3c",
         "type": "tabs",
-        "dimension": 71.80349932705249,
+        "dimension": 67.2859450726979,
         "children": [
           {
             "id": "debfce1a09ca7f61",
@@ -188,7 +173,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-09-15 12.33.36.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -225,7 +209,7 @@
       {
         "id": "896d79ad3de22101",
         "type": "tabs",
-        "dimension": 28.196500672947515,
+        "dimension": 32.7140549273021,
         "children": [
           {
             "id": "768af082eef3aebd",
@@ -266,7 +250,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5001dd83ed63ee17",
+  "active": "6f34454baf136057",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-09-15 12.33.36.excalidraw.md",
     "Klasse 11/Physik/Kondensatoren.md",
