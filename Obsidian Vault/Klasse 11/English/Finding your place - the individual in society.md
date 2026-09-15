@@ -207,3 +207,9 @@ Skills
 - soft
 working hours
 pay
+
+Keegan criticizes the fact that a quarter of Yale graduates end up working in finance or consulting.
+Keegan believes that the banking and consulting industries are not inherently evil but maybe quite unexciting as a job.
+Keegan understands that people who need money get into those jobs because it has good pay.
+Many people decide to work in the world of finance because it's easy to apply.
+Keegan believes that a lot of talent is lost to finance and consulting.

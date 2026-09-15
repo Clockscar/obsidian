@@ -33,4 +33,19 @@ tags:
 - freie Wirtschaft:
 	- keine Eingriffe des Staates mehr
 	- dezentralisierte Selbstverwaltung
+	- einheitliche Grundsteuer (auf Abgaben)
+	- Aufhebung der Frondienste
+	- Gewerbefreiheit (Aufhebung der Zünfte)
+	- freier Handel mit Getreide für alle
+- Entlassung 1776 nach Forderungen für Einschränkung des königlichen Hofs
+- große Sorge bei gebildeten Fürsten (Physiokraten): Landwirtschaft vernachlässigt; erhalten und erweitern
+$\longrightarrow$ Neuerungen:
+	- Fruchtwechselwirtschaft (Für mehr Erträge) 
+	- bessere Viehzucht (sichere Ernährung der Bevölkerung)
+	- Trockenlegung der Moore für mehr landwirtschaftliche Nutzfläche mit staatlicher Förderung
+- (zwei paar andere Finanzminister)
+- 1776: Necker
+- Merkantilist
+- effizienteres Finanzminister
+	- einheitliche Regelung der Finanzen
 	- 
