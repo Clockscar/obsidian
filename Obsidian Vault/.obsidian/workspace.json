@@ -40,21 +40,9 @@
               "icon": "hearth-crystal",
               "title": "Home"
             }
-          },
-          {
-            "id": "1a0f4f434d03cdec",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-09-15 23.57.04.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-15 23.57.04.excalidraw"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -272,7 +260,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1a0f4f434d03cdec",
+  "active": "8ac5b7cc1c0d035c",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-09-15 23.57.04.excalidraw.md",
     "Excalidraw/Drawing 2026-09-15 12.33.36.excalidraw.md",
