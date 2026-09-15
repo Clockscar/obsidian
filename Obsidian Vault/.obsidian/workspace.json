@@ -284,7 +284,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,8 +313,8 @@
   "active": "2255facf74662503",
   "lastOpenFiles": [
     "Klasse 11/Geschichte/Vortrag.md",
-    "Klasse 11/Info/Boolesche Algebra.md",
     "Klasse 11/English/Finding your place - the individual in society.md",
+    "Klasse 11/Info/Boolesche Algebra.md",
     "Klasse 11/Info/Zahlen.md",
     "Klasse 10/WR/Wirtschaftsordnung.md",
     "Excalidraw/Drawing 2026-03-12 10.38.42.excalidraw.md",

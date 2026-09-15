@@ -197,3 +197,13 @@ While quality of life is mainly decided by hard factors (infrastructure, work op
 But there's hesitance by social organizations to take action politically because they my get cuts to already quite dire finances. Many organizations are showing need for political education and consultation.
 
 Some people propose, that voluntary work can lead to more socially connected and uniform society. While Saxonys population has been not as engaged in politics in the last years, many youth initiatives have formed in the last years. They include "Fridays for future", groups that engage themself for refugees and many more. 
+
+In recent years the political middle has been quite agitated and on the edge. They are worried, that the gap between rich and poor will continue growing, that social connectedness will suffer, that rent won't be enough or that immigration will lead to loss of culture. Acording to Sachsen-Monitor, racist and discriminatory opinions are higher than average while antisemitic opions are below average. And the will to take voluntary leadership roles is also quite sparse
+
+interests
+freetime
+Skills
+- hard
+- soft
+working hours
+pay
