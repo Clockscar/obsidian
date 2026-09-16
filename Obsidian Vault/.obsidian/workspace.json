@@ -15,7 +15,7 @@
               "type": "hearth-home-view",
               "state": {
                 "scroll": {
-                  "dash-mrmmigzt-2357": 240
+                  "dash-mrmmigzt-2357": 480
                 }
               },
               "pinned": true,
@@ -253,7 +253,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c4c291384066794c",
+  "active": "7e45bf40073682c8",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2026-09-15 23.57.04.excalidraw.md",
