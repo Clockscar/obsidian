@@ -13,7 +13,11 @@
             "pinned": true,
             "state": {
               "type": "hearth-home-view",
-              "state": {},
+              "state": {
+                "scroll": {
+                  "dash-mrmmigzt-2357": 240
+                }
+              },
               "pinned": true,
               "icon": "hearth-crystal",
               "title": "Home"
@@ -31,8 +35,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,8 +253,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6f34454baf136057",
+  "active": "7e45bf40073682c8",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2026-09-15 23.57.04.excalidraw.md",
     "Excalidraw/Drawing 2026-09-15 12.33.36.excalidraw.md",
     "Klasse 11/Physik/Kondensatoren.md",
@@ -281,7 +285,6 @@
     "Klasse 11/Physik/Elektrisches Feld.md",
     "Klasse 11/Religion/Anthropologie.md",
     "Klasse 11/Religion/Religion.md",
-    "Clippings/Mensch Tier Vergleich.md",
     "Clippings",
     "rand/Pasted Image 20260906113624_568.png",
     "rand/Pasted image 20260906113609.png",
